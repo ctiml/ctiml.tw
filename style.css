@@ -1,0 +1,17 @@
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+a {color: #36D;}
+.personal-info span {
+    font-size: 14px;
+    font-family: sans-serif, Helvetica, Arial;
+}
+ul {
+    margin: 0;
+    padding: 5px 20px;
+}
+.label {
+    color: #456;
+    padding-right: 10px;
+}
