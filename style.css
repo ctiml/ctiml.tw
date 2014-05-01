@@ -1,17 +1,17 @@
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
-a:hover {text-decoration:underline;}
-a:active {text-decoration:underline;}
-a {color: #36D;}
-.personal-info span {
-    font-size: 14px;
-    font-family: sans-serif, Helvetica, Arial;
-}
 ul {
     margin: 0;
-    padding: 5px 20px;
+    list-style-type: none;
 }
-.label {
-    color: #456;
-    padding-right: 10px;
+li {
+    margin: 3px 0;
+}
+.text {
+    padding: 0 5px;
+}
+.profile-picture {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
 }
